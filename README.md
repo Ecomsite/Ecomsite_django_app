@@ -4,10 +4,10 @@
 <pre>
 pip install -r requirements.txt 
 python manage.py runserver
-<pre>
+</pre>
 
 2. Running the project
 <pre>
 python manage.py runserver
-<pre>
+</pre>
 
