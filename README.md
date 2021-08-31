@@ -9,5 +9,8 @@ python manage.py runserver
 2. Running the project
 <pre>
 python manage.py runserver
+<br>
+To change the default port number(8000) to new port number:
+python manage.py runserver <port_number >    
 </pre>
 
